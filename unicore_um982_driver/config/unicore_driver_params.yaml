@@ -37,5 +37,5 @@ unicore_um982_driver:
     ntrip_server: "10.0.0.14"           # NTRIP caster server hostname/IP
     ntrip_port: "2101"                   # NTRIP caster port (typically 2101)
     ntrip_mountpoint: "BASE01"            # NTRIP mountpoint name
-    ntrip_user: "user"                   # NTRIP username (if required)
-    ntrip_pass: "password"               # NTRIP password (if required)
+    ntrip_user: "rover1"                   # NTRIP username (if required)
+    ntrip_pass: "123987"               # NTRIP password (if required)
